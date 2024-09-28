@@ -1,0 +1,1 @@
+In this folder we will be recording concepts of statistics fro data science.

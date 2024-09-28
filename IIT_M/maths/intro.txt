@@ -1,0 +1,1 @@
+In this folder we will e recording the mathematical concepts for data science
